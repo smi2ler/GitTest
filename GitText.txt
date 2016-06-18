@@ -15,3 +15,8 @@ To complete this lesson, submit the freshprince project to your mentor using the
 Git Cheatsheet
 
 Add some text for a test.
+
+
+add some text 1
+
+add some text 2

@@ -13,3 +13,5 @@ You'll likely find yourself referencing the commands for each of these steps. If
 To complete this lesson, submit the freshprince project to your mentor using the GitHub link to your project (for example: https://github.com/danfriedman/freshprince). Though there's nothing new in your code, your mentor can confirm that you've saved everything to GitHub properly.
 
 Git Cheatsheet
+
+Add some text for a test.

@@ -1,0 +1,15 @@
+A common mantra with Git is: "commit early and often." You want to save your work frequently so you don't lose progress, and so that you can review the history of your progress in logical steps when you're finished (there's a page on GitHub where you can see a history of commits).
+
+Run through this workflow one more time with a new project:
+
+Create a new folder in your "projects" folder. Name it whatever you'd like.
+Add at least two files to this folder.
+Initialize the repository using Git from the command line.
+Create a repository on GitHub and connect your local repository to it.
+Add and commit your files.
+Push them to GitHub.
+You'll likely find yourself referencing the commands for each of these steps. If you are, do the challenge one more time to get comfortable with the workflow.
+
+To complete this lesson, submit the freshprince project to your mentor using the GitHub link to your project (for example: https://github.com/danfriedman/freshprince). Though there's nothing new in your code, your mentor can confirm that you've saved everything to GitHub properly.
+
+Git Cheatsheet
